@@ -71,3 +71,47 @@ func main() {
 		fmt.Println(animal)
 	}
 }
+
+/* OUTPUT
+
+Belirli Sayıda Çalışan For Döngüsü
+0
+1
+2
+3
+4
+
+Azalarak Çalışan For Döngüsü
+4
+3
+2
+1
+0
+
+While Yerine Kullanılabilen For Döngüsü
+0
+1
+2
+3
+
+Koşulsuz/Sonsuz Döngü
+1
+2
+3
+4
+5
+6
+7
+
+Dizi (Array)’deki İndeks Sayısı Kadar Döngüyü Çalıştırma
+5
+10
+15
+20
+
+Foreach Yerine Kullanılabilen For Döngüsü
+kedi
+köpek
+kuş
+
+*/
